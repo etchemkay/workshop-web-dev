@@ -1,4 +1,4 @@
-// Generated on 2014-06-05 using generator-angular 0.8.0
+// Generated on 2014-06-11 using generator-angular 0.8.0
 'use strict';
 
 // # Globbing
@@ -369,7 +369,7 @@ module.exports = function (grunt) {
     karma: {
       unit: {
         configFile: 'karma.conf.js',
-        singleRun: false
+        singleRun: true
       }
     }
   });
